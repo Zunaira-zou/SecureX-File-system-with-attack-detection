@@ -1,0 +1,17 @@
+{
+    "mateeba": {
+        "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$6yASfyCVa3LKa+RZe/Lq0w$3wcmb0vq+Wd4XeU2M/9stV7pUpN2pShRRw5unCHI2zw",
+        "failed_attempts": 0,
+        "lock_until": 0
+    },
+    "adeen": {
+        "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$2ltaV6KwzOUwFeXSs/Aveg$AKAMvKCLrBCAa4zTX/IybPECRvNscRTTwlP9zXvpCtQ",
+        "failed_attempts": 0,
+        "lock_until": 0
+    },
+    "zuni": {
+        "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$d9FgnimdBxidThlvp2IZ3g$Erdplcp4VauPNMxmrUjpQh5DFs5m5KGwXfh+Qg+nEMI",
+        "failed_attempts": 0,
+        "lock_until": 0
+    }
+}
