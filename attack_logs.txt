@@ -1,0 +1,2 @@
+[2026-04-05 17:45:32] User: zuni | Reason: Wrong password attempt (1/5)
+[2026-04-07 18:59:47] User: mateeba | Reason: Wrong password (1/5)
